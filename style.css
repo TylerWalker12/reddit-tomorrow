@@ -1,0 +1,30 @@
+* {
+	color: #C5C8C6 !important;
+	background-color: #1D1F21 !important;
+	border: none !important;
+}
+
+a, a:visited {
+	color: #81a2be !important;
+}
+
+a:hover {
+	color: #5F89AC !important;
+}
+
+.arrow.up {
+	border-bottom: 8px solid #bdbdbd !important;
+	border-left: 8px solid #fff !important;
+	border-right: 8px solid #fff !important;
+	border-right-color: transparent !important;
+	border-left-color: transparent !important;
+}
+
+.arrow.down {
+	border-top: 8px solid #BDBDBD !important;
+	border-left: 8px solid #FFF !important;
+	border-left-color: transparent !important;
+	border-right: 8px solid #FFF !important;
+	border-right-color: transparent !important;
+}
+
